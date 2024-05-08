@@ -1,0 +1,24 @@
+Assignment 2(B)
+
+Commands
+1.docker -v
+2.docker images
+3.docker ps
+4.Go to google and search docker hub,Then search for image OpenJDK.From that copy url
+5.docker pull OpenJDK
+6.docker images
+7.docker run --name JAVA -it -d openjdk
+8.docker ds
+9.docker exec -it JAVA jshell
+10.System.out.println("Hello Docker");
+11.int a=10
+12.int b=20
+13.System.out.println(a+b);
+14.docker ps
+15./exit
+16.docker ps
+17.docker stop container_id
+18.docker container rn container_id
+19.docker ps
+20.docker images
+21.docker image prune

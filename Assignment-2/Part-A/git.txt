@@ -1,0 +1,23 @@
+Assignment 2(A)Git
+
+Commands
+1.mkdir PartA
+2.cd PartA
+3.git --version
+4.git init
+5.git add .
+6.git status
+7.git remote add origin "URL of your repository created"
+8.git commit -m "First commit"
+9.If prompted to authenticate user,type following command
+git config --global user.email "email"
+git config --global user.name "user name"
+10.git push -u origin master
+11.git status
+
+For pushing 2nd file
+1.git add .
+2.git status
+3.git commit -m 
+4.git push
+5.git status
