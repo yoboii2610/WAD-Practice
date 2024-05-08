@@ -1,0 +1,10 @@
+google cloud sdk shell
+
+gcloud init
+
+cd project-path
+
+python -m http.server port-no.
+
+
+localhost:port-no.
