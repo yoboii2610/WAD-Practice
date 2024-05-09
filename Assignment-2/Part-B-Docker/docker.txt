@@ -5,10 +5,10 @@ Commands
 2.docker images
 3.docker ps
 4.Go to google and search docker hub,Then search for image OpenJDK.From that copy url
-5.docker pull OpenJDK
+5.docker pull openjdk
 6.docker images
 7.docker run --name JAVA -it -d openjdk
-8.docker ds
+8.docker ps
 9.docker exec -it JAVA jshell
 10.System.out.println("Hello Docker");
 11.int a=10
